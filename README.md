@@ -26,7 +26,7 @@ SurfaceMap lets you map video onto irregular physical surfaces using quad-corner
 If this repo is hosted on GitHub Pages, just visit the URL and start mapping:
 
 ```
-https://YOUR-USERNAME.github.io/surfacemap/
+https://troybriggsis-arch.github.io/surfacemap/
 ```
 
 ### Use it locally
